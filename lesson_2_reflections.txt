@@ -5,3 +5,16 @@ it sets up the hidden directory with the meta data in preparation for your first
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area holds the files ready to be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can see what you are ready to commit in the staging area and check it with diff to confirm it is a logical place to make a commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+making and experimental branch 
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+all changes are combined into one branch. because it is bringing two branches back together.
